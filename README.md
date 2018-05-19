@@ -25,5 +25,4 @@ How to document and write a report of your work.
 - The Capstone Project Report 'capstone_project_report.pdf'. 
 - The implemented code, in the form of an ipython notebook 'Capstone Project.ipynb'
 - The datasets used for the project can be located on the [Kaggle Competition Page](https://www.kaggle.com/c/invasive-species-monitoring/data).
-
-
+- The highest scoring submission file is also included in the repository, 'submit_VGG16_run7.csv'.
