@@ -26,7 +26,7 @@ How to document and write a report of your work.
 - The implemented code, in the form of an ipython notebook [Capstone Project.ipynb](https://github.com/robertyoung2/Machine-Learning-Capstone/blob/master/Capstone%20Project.ipynb)
 - The datasets used for the project can be located on the [Kaggle Competition Page](https://www.kaggle.com/c/invasive-species-monitoring/data).
 - The highest scoring submission file is also included in the repository as [submit_VGG16_run7.csv](https://github.com/robertyoung2/Machine-Learning-Capstone/blob/master/submit_VGG16_run7.csv).
-- The best saved weights for VGG16 could not be included as their files size was ~270mb.
+- The best saved weights for VGG16 could not be included as the files size was ~270mb.
 
 ## Libraries Used
 
